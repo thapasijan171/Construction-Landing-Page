@@ -44,7 +44,7 @@ Fork the repository.
 3. Push your changes to your fork.
 4. Submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License.
 
 Happy coding! If you have any questions or suggestions, feel free to reach out.
